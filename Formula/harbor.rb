@@ -2,8 +2,8 @@
 class Harbor < Formula
   desc "Portfolio, program and project management in the terminal"
   homepage "https://harborppm.com/ai"
-  url "https://registry.npmjs.org/@harborppm/cli/-/cli-0.51.0.tgz"
-  sha256 "26b2a45a1d0f7561489415c153f84ff274f31b655f52fad8cab20bf6924bbb81"
+  url "https://registry.npmjs.org/@harborppm/cli/-/cli-0.52.0.tgz"
+  sha256 "6a7e420c63fb451117ccada529f74fce2f8e5000518cad0f87e002906ae3b090"
   license "MIT"
 
   depends_on "node"
